@@ -1,1 +1,2 @@
-# StudentRegistrationApp
+### StudentRegistrationApp
+#### Student Registration Application
